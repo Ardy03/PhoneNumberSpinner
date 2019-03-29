@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Fri Mar 29 16:08:26 CST 2019
+0.baseType=DIRECTORY
+0.base=E\:\\Kuliah\\Semester 6\\Pengembangan Aplikasi Mobile\\android-fundamentals-starter-apps-v2-master\\PhoneNumberSpinner\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\18
+0.path=classes.dex
+0.set=DEX
+count=1
